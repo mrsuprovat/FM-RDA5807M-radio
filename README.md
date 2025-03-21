@@ -146,7 +146,7 @@ If you would like to contribute, fork the repository, create a new branch, make 
 
 Credits
 
-This project is inspired by and utilizes the RDA5807M library from Mathertel's Radio GitHub Repository. Special thanks to Mathertel for providing an excellent radio library for Arduino projects.
+This project is inspired by and utilizes the RDA5807M library from Mathertel's Radio GitHub Repository https://github.com/mathertel/Radio. Special thanks to Mathertel for providing an excellent radio library for Arduino projects.
 
 Author
 
