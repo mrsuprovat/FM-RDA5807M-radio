@@ -1,0 +1,14 @@
+Frequency (MHz)	Station Name
+91.1	Radio City
+92.7	Big FM
+93.5	Red FM
+94.3	MY FM / Radio One
+98.3	Radio Mirchi
+100.1	AIR FM Gold
+101.8	Vividh Bharati
+102.6	FM Rainbow
+104.0	Fever FM
+104.8	Ishq FM
+105.6	Gyan Vani
+107.1	AIR FM Rainbow
+add all this channel with this sequince
